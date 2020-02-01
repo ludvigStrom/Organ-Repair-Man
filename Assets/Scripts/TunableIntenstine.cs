@@ -1,21 +1,21 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class TunableIntenstine : MonoBehaviour
 {
+
     public float currentFrequency;
     public float aimFrequency;
 
-    // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
         
     }
 
-    // Update is called once per frame
-    void Update()
+    void OnMouseDown()
     {
-        
+        Debug.Log(this.gameObject.name +  "Current Frequence:" + currentFrequency + " aimFrequency:" + aimFrequency);
     }
 }
