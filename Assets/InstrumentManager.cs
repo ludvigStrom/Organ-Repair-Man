@@ -24,19 +24,19 @@ public class InstrumentManager : MonoBehaviour
         if (Input.GetKeyDown("q"))
         {
             cursorManager.SetCursor(0);
-            print("q");
+
         }else if (Input.GetKeyDown("w"))
         {
             cursorManager.SetCursor(1);
-            print("w");
+
         }else if (Input.GetKeyDown("e"))
         {
             cursorManager.SetCursor(2);
-            print("e");
+
         }else if (Input.GetKeyDown("r"))
         {
             cursorManager.SetCursor(3);
-            print("r");
+
         }
 
         Vector3 pos = Input.mousePosition;
