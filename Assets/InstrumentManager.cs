@@ -8,8 +8,9 @@ public class InstrumentManager : MonoBehaviour
     public enum Instruments { HammerUp, HammerDown, TuningFork};
     public Instruments Instrument;
     public float damage = 10;
-
     public float tuneValue = 10;
+
+
 
     void Update()
     {
@@ -25,7 +26,7 @@ public class InstrumentManager : MonoBehaviour
             {
                 TunableIntenstine organ = hit.collider.gameObject.GetComponent<TunableIntenstine>();
                 organ.changeCurrentFrequency(tuneValue);
-                Debug.Log(hit.collider.name + "Mouse 0, current freq, " + organ.getCurrentPitch());
+                //Debug.Log(hit.collider.name + "Mouse 0, current freq, " + organ.getCurrentPitch());
             }
         }
 
@@ -35,7 +36,7 @@ public class InstrumentManager : MonoBehaviour
             {
                 TunableIntenstine organ = hit.collider.gameObject.GetComponent<TunableIntenstine>();
                 Debug.Log(hit.collider.name + "Mouse 2, current freq, " + organ.getCurrentPitch());
-                organ.checkFrequency(damage);
+                //organ.checkFrequency(damage);
             }
         }
 
@@ -46,7 +47,7 @@ public class InstrumentManager : MonoBehaviour
             {
                 TunableIntenstine organ = hit.collider.gameObject.GetComponent<TunableIntenstine>();
                 organ.changeCurrentFrequency(tuneValue * -1);
-                Debug.Log(hit.collider.name + "Mouse 1, current freq, " + organ.getCurrentPitch());
+                //Debug.Log(hit.collider.name + "Mouse 1, current freq, " + organ.getCurrentPitch());
             }
         }
     }
