@@ -1310,12 +1310,12 @@ GameObject:
   - component: {fileID: 840457852}
   - component: {fileID: 840457851}
   m_Layer: 0
-  m_Name: hand cursor
+  m_Name: Cursor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &840457851
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1328,7 +1328,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53e1079d7fb31ef4bbae233930257c98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hideCursor: 0
+  showCursor: 0
+  sprites:
+  - {fileID: 21300000, guid: f7742d46e48553f44afc772a3158e388, type: 3}
+  - {fileID: 21300000, guid: 92c3f9110b26f9e4dba369702ff6d614, type: 3}
+  - {fileID: 21300000, guid: 06171c6dfc9b2a24ead52270c8987822, type: 3}
+  - {fileID: 21300000, guid: 2b5e9435c019270428ef4d312bcf42ba, type: 3}
 --- !u!212 &840457852
 SpriteRenderer:
   m_ObjectHideFlags: 0

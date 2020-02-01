@@ -39,5 +39,4 @@ public class TunableIntenstine : MonoBehaviour
         player.ReduceHealth(damage);
         return aimFrequency;
     }
-
 }

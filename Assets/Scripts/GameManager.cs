@@ -32,7 +32,7 @@ public class GameManager : MonoBehaviour
         }
         else
         {
-            won = true;
+            //won = true;
         }        
     }
 }

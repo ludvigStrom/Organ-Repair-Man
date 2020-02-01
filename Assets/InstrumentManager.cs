@@ -10,10 +10,35 @@ public class InstrumentManager : MonoBehaviour
     public float damage = 10;
     public float tuneValue = 10;
 
+    private CursorManager cursorManager;
+
+    private void Start()
+    {
+        GameObject p = GameObject.FindGameObjectWithTag("CursorManager");
+        cursorManager = p.GetComponent<CursorManager>();
+    }
 
 
     void Update()
     {
+        if (Input.GetKeyDown("q"))
+        {
+            cursorManager.SetCursor(0);
+            print("q");
+        }else if (Input.GetKeyDown("w"))
+        {
+            cursorManager.SetCursor(1);
+            print("w");
+        }else if (Input.GetKeyDown("e"))
+        {
+            cursorManager.SetCursor(2);
+            print("e");
+        }else if (Input.GetKeyDown("r"))
+        {
+            cursorManager.SetCursor(3);
+            print("r");
+        }
+
         Vector3 pos = Input.mousePosition;
         pos.z = transform.position.z - Camera.main.transform.position.z;
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(pos);
@@ -35,8 +60,8 @@ public class InstrumentManager : MonoBehaviour
             if (hit.collider)
             {
                 TunableIntenstine organ = hit.collider.gameObject.GetComponent<TunableIntenstine>();
-                Debug.Log(hit.collider.name + "Mouse 2, current freq, " + organ.getCurrentPitch());
-                //organ.checkFrequency(damage);
+                //Debug.Log(hit.collider.name + "Mouse 2, current freq, " + organ.getCurrentPitch());
+                organ.checkFrequency(damage);
             }
         }
 

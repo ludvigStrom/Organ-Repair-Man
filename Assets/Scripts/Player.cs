@@ -39,7 +39,7 @@ public class Player : MonoBehaviour
 
     public void ReduceHealth(float i)
     {
-        Debug.Log("Takes damage");
+        //Debug.Log("Takes damage");
         playerHp -= i;
     }
 }
