@@ -13,8 +13,12 @@ public class GameManager : MonoBehaviour
     [SerializeField]
     private Player player;
 
+    private bool isTuned = false;
+
+
     void Start()
     {
+        isTuned = false;
         GameObject p = GameObject.FindGameObjectWithTag("Player");
         player = p.GetComponent<Player>();
 
@@ -39,10 +43,21 @@ public class GameManager : MonoBehaviour
         }        
     }
 
-
     bool CheckTuning()
     {
-        //TODO
-        return false;
+
+        foreach (TunableIntenstine intestine in instestines)
+        {
+            if(intestine.getCurrentPitch() / intestine.getAimPitch() >= 0.95)
+            {
+                isTuned = true;
+            }
+            else
+            {
+                isTuned = false;
+            }
+        }
+
+        return isTuned;
     }
 }
