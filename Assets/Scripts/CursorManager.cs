@@ -12,7 +12,9 @@ public class CursorManager : MonoBehaviour
 
     private void Update()
     {
-        Vector2 cursorPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        transform.position = cursorPos;
+
+        Vector3 pos = Input.mousePosition;
+        pos.z = transform.position.z - Camera.main.transform.position.z;
+        transform.position = Camera.main.ScreenToWorldPoint(pos);
     }
 }
