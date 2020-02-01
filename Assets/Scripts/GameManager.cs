@@ -32,7 +32,17 @@ public class GameManager : MonoBehaviour
         }
         else
         {
-            //won = true;
+            if (CheckTuning())
+            {
+                won = true;
+            }
         }        
+    }
+
+
+    bool CheckTuning()
+    {
+        //TODO
+        return false;
     }
 }
