@@ -14,8 +14,15 @@ public class TunableIntenstine : MonoBehaviour
         
     }
 
-    void OnMouseDown()
+    public float getCurrentPitch()
     {
-        Debug.Log(this.gameObject.name +  "Current Frequence:" + currentFrequency + " aimFrequency:" + aimFrequency);
+        return currentFrequency;
     }
+
+    public float getAimPitch()
+    {
+        return aimFrequency;
+    }
+
+
 }
