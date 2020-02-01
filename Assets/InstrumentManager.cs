@@ -7,11 +7,9 @@ public class InstrumentManager : MonoBehaviour
 {
     public enum Instruments { HammerUp, HammerDown, TuningFork};
     public Instruments Instrument;
+    public float damage = 10;
 
-    private GameObject currentObject;
-
-    public float rayLength;
-    public LayerMask layerMask;
+    public float tuneValue = 10;
 
     void Update()
     {
@@ -20,11 +18,35 @@ public class InstrumentManager : MonoBehaviour
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(pos);
         RaycastHit2D hit = Physics2D.Raycast(new Vector2(mousePosition.x, mousePosition.y), new Vector2(), 0f);
 
+        //mouse 0 tune up
         if (Input.GetMouseButtonDown(0) && !EventSystem.current.IsPointerOverGameObject())
         {
             if (hit.collider)
             {
-                Debug.Log(hit.collider.name);
+                TunableIntenstine organ = hit.collider.gameObject.GetComponent<TunableIntenstine>();
+                organ.changeCurrentFrequency(tuneValue);
+                Debug.Log(hit.collider.name + "Mouse 0, current freq, " + organ.getCurrentPitch());
+            }
+        }
+
+        if (Input.GetMouseButtonDown(2) && !EventSystem.current.IsPointerOverGameObject())
+        {
+            if (hit.collider)
+            {
+                TunableIntenstine organ = hit.collider.gameObject.GetComponent<TunableIntenstine>();
+                Debug.Log(hit.collider.name + "Mouse 2, current freq, " + organ.getCurrentPitch());
+                organ.checkFrequency(damage);
+            }
+        }
+
+        //mouse 2 tune down
+        if (Input.GetMouseButtonDown(1) && !EventSystem.current.IsPointerOverGameObject())
+        {
+            if (hit.collider)
+            {
+                TunableIntenstine organ = hit.collider.gameObject.GetComponent<TunableIntenstine>();
+                organ.changeCurrentFrequency(tuneValue * -1);
+                Debug.Log(hit.collider.name + "Mouse 1, current freq, " + organ.getCurrentPitch());
             }
         }
     }

@@ -5,13 +5,18 @@ using UnityEngine.EventSystems;
 
 public class TunableIntenstine : MonoBehaviour
 {
+    [SerializeField]
+    private float currentFrequency;
+    [SerializeField]
+    private float aimFrequency;
+    [SerializeField]
+    private Player player;
 
-    public float currentFrequency;
-    public float aimFrequency;
+    public float damage = 15;
 
     private void Start()
     {
-        
+        player = GameObject.FindGameObjectWithTag("Player").GetComponent<Player>();
     }
 
     public float getCurrentPitch()
@@ -24,5 +29,15 @@ public class TunableIntenstine : MonoBehaviour
         return aimFrequency;
     }
 
+    public void changeCurrentFrequency(float changeValue)
+    {
+        currentFrequency += changeValue;
+    }
+
+    public float checkFrequency(float damage)
+    {
+        player.ReduceHealth(damage);
+        return aimFrequency;
+    }
 
 }
