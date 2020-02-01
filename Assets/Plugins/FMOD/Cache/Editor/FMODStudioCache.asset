@@ -1,0 +1,3929 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9206836203982651920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-9129990064236590921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan3Event/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-8850874348960687827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-8784016056651330255
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan2Event/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-8762271885390456334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-8741407186783623014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: hitpoints
+  m_EditorClassIdentifier: 
+  Name: hitpoints
+  Min: 0
+  Max: 100
+  Default: 100
+  Exists: 0
+--- !u!114 &-8651282386763972446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/hpLowEvent
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/hpLowEvent
+  guid: 5e010acfa0d22449b478d2e39e5080fc
+  Banks:
+  - {fileID: -4806405585067912987}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3641
+--- !u!114 &-8592852942056789554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-8561222939558345119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-8435632747001360129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-8424732508983236009
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/soundingforkEvent/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-8415769871630611990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan2Event/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-8299438385794754021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-8004175423676834369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: "../../\u97F3\u697D/ISD/Game Jams/2020/January GGJ/organrepairmanbackup/Build/Desktop/Master.bank"
+  SubDir: 
+  lastModified: 637161944388855980
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-7953426437803766322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-7942893722756021454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-7822373524953202874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-7564015352597495574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-7542054102526016992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-7489279688885878658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan1Event/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-7353698714994746354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan3Event/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-7346655695171975328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/gameBGM/organsRepaired
+  m_EditorClassIdentifier: 
+  Name: organsRepaired
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
+--- !u!114 &-7156549190626798073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 1
+--- !u!114 &-7134616259750714749
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-7051050683328630953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-6958536032217650850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: hitpoints
+  m_EditorClassIdentifier: 
+  Name: hitpoints
+  Min: 0
+  Max: 100
+  Default: 100
+  Exists: 0
+--- !u!114 &-6923600354074148422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-6897372940799401854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-6872286701285092811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-6672707085030507082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-6641995826336124679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-6638925032204785015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-6634588616603436325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-6563189463591931653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMODBanks/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637161945001744499
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1620
+  Exists: 1
+--- !u!114 &-6401394121328829544
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/soundingforkEvent/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-6389813659625549228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: hitpoints
+  m_EditorClassIdentifier: 
+  Name: hitpoints
+  Min: 0
+  Max: 100
+  Default: 100
+  Exists: 0
+--- !u!114 &-6333817596747941460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 1
+--- !u!114 &-6217252577645219503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/gameBGM/organsRepaired
+  m_EditorClassIdentifier: 
+  Name: organsRepaired
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &-6194769366100749715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: snapshot:/D Major
+  m_EditorClassIdentifier: 
+  Path: snapshot:/D Major
+  guid: 5c55683d814c5f438808ca419ca5b334
+  Banks:
+  - {fileID: -4806405585067912987}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 5777206708655545542}
+  - {fileID: -4324579202194447799}
+  - {fileID: -7156549190626798073}
+  - {fileID: 3362607355787473024}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &-6056829991585344295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan1Event/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-6015652734575415044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/tf_hitOrgan1Event
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/tf_hitOrgan1Event
+  guid: 84899f88ec9cf64b923f933cde14f085
+  Banks:
+  - {fileID: -4806405585067912987}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 6818397933219670618}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5288
+--- !u!114 &-5947935512765845497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-5879097631246611989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-5798186145987919277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan4Event/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-5774347769163306427
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan2Event/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 1
+--- !u!114 &-5743016374920018705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan1Event/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-5647733703792299329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/gameBGM/organsRepaired
+  m_EditorClassIdentifier: 
+  Name: organsRepaired
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &-5573929889759669728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan4Event/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 1
+--- !u!114 &-5530266126944591768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-5514259752619008436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-5425805529516811406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-5383451710654001459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-5311238916473644323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-5279010228813050545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-5252353989999710845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan3Event/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-5252120169656165903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-5149213212123792205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-5070246606300732763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/gameBGM/organsRepaired
+  m_EditorClassIdentifier: 
+  Name: organsRepaired
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &-4869624879518403597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/tf_hitOrgan2Event
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/tf_hitOrgan2Event
+  guid: 218aed2d37a6474bbc779313c046e76d
+  Banks:
+  - {fileID: -4806405585067912987}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -5774347769163306427}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5288
+--- !u!114 &-4806405585067912987
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMODBanks/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637161945001575102
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-4767420317351615775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-4618393284779184124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-4599922791446747292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-4579005149547633284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-4578919619647515540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/soundingforkEvent/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-4562621670419509201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan4Event/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-4546769582774559820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan1Event/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-4431565021141936272
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: "../../\u97F3\u697D/ISD/Game Jams/2020/January GGJ/organrepairmanbackup/Build/Desktop/Master.bank"
+  SubDir: 
+  lastModified: 637161927423073027
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4420222779182559451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-4324579202194447799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 1
+--- !u!114 &-4263424286529039445
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: hitpoints
+  m_EditorClassIdentifier: 
+  Name: hitpoints
+  Min: 0
+  Max: 100
+  Default: 100
+  Exists: 1
+--- !u!114 &-4125872888752406005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-4098796878117820910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: "../../\u97F3\u697D/ISD/Game Jams/2020/January GGJ/organrepairmanbackup/Build/Desktop/Master.bank"
+  SubDir: 
+  lastModified: 637161901769787217
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4063717312818554438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: hitpoints
+  m_EditorClassIdentifier: 
+  Name: hitpoints
+  Min: 0
+  Max: 100
+  Default: 100
+  Exists: 0
+--- !u!114 &-3850607179498699771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan3Event/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-3769454484438529410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/tf_hitOrgan3Event
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/tf_hitOrgan3Event
+  guid: 170612ea35749a45b45c935b1b095c9e
+  Banks:
+  - {fileID: -4806405585067912987}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 5402145169016205178}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5288
+--- !u!114 &-3643348399754834339
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-3628258247875459638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan4Event/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-3550216388246330133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/gameBGM/organsRepaired
+  m_EditorClassIdentifier: 
+  Name: organsRepaired
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &-3301226369959560238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/soundingforkEvent/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-3291422589043641962
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan4Event/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-3026968393010604376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: hitpoints
+  m_EditorClassIdentifier: 
+  Name: hitpoints
+  Min: 0
+  Max: 100
+  Default: 100
+  Exists: 0
+--- !u!114 &-2998951352422220526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-2966633826584409342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-2813589603049334968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-2734939480536992528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: "../../\u97F3\u697D/ISD/Game Jams/2020/January GGJ/organrepairmanbackup/Build/Desktop/Master.bank"
+  SubDir: 
+  lastModified: 637161912616564445
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-2656132144809126000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan2Event/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-2528644352667142492
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-2474997754827197548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-2390334839828821710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-2269190079523489114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-2264175942018625668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-2237526578022153088
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan3Event/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-2158302288163700288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-2090509694278605138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-2083111162761831764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/gameBGM/organsRepaired
+  m_EditorClassIdentifier: 
+  Name: organsRepaired
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &-2075858491921997395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-1950467097534140208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-1738324215746517381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan3Event/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-1732543929762581020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan1Event/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-1709542789894331036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan2Event/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-1696645764909686099
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-1612777466457490571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-1473949759842051584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/gameBGM
+  m_EditorClassIdentifier: 
+  Path: event:/Music/gameBGM
+  guid: 2bb3c86462bf9c4287eac5084edac5aa
+  Banks:
+  - {fileID: -4806405585067912987}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -7346655695171975328}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 30000
+--- !u!114 &-1381727008294570100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan4Event/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-1319180816450301186
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/soundingforkEvent/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-1080329816765249127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan4Event/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-1049098636412100639
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-977006059224405054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: "../../\u97F3\u697D/ISD/Game Jams/2020/January GGJ/organrepairmanbackup/Build/Desktop/Master.bank"
+  SubDir: 
+  lastModified: 637161912701854192
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-869443217438940456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-670825077732904389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-552481095215364201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan4Event/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-528362592936193798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-352176363736097534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-346576813513496702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-312833712267336631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-307972731575796341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-180701325573368809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-157862931612854002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan3Event/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-48055883700451673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan3Event/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &-11606726414842287
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/menuBGM
+  m_EditorClassIdentifier: 
+  Path: event:/Music/menuBGM
+  guid: 2cd087923b0d75499e687762d34375af
+  Banks:
+  - {fileID: -4806405585067912987}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5000
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -6563189463591931653}
+  - {fileID: -4806405585067912987}
+  EditorEvents:
+  - {fileID: -3769454484438529410}
+  - {fileID: 1278916709911972449}
+  - {fileID: -4869624879518403597}
+  - {fileID: -1473949759842051584}
+  - {fileID: -11606726414842287}
+  - {fileID: -6194769366100749715}
+  - {fileID: -8651282386763972446}
+  - {fileID: -6015652734575415044}
+  - {fileID: 8549206228379271418}
+  - {fileID: 4090143207649853319}
+  - {fileID: 7967734601848109193}
+  - {fileID: 2218080989177472822}
+  - {fileID: 3773043391617760485}
+  EditorParameters:
+  - {fileID: -4263424286529039445}
+  MasterBanks:
+  - {fileID: -4806405585067912987}
+  StringsBanks:
+  - {fileID: -6563189463591931653}
+  stringsBankWriteTime: 637161945001744499
+  cacheVersion: 3
+--- !u!114 &212406502741088136
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan3Event/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &266426790156551160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/gameBGM/organsRepaired
+  m_EditorClassIdentifier: 
+  Name: organsRepaired
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &352933496292053628
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &380242563714009020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &439141975463064625
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &511945894485460952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &625983868978501341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan3Event/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &631622163632482033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &955196926251550639
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/soundingforkEvent/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &1278916709911972449
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/tf_hitOrgan4Event
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/tf_hitOrgan4Event
+  guid: 1ff1a8ede115b4478be9c23185f0f2a6
+  Banks:
+  - {fileID: -4806405585067912987}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -5573929889759669728}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5288
+--- !u!114 &1529492137641207133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan3Event/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &1854445916438408022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &2042240924777099856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan1Event/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &2061259525655380633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: "../../\u97F3\u697D/ISD/Game Jams/2020/January GGJ/organrepairmanbackup/Build/Desktop/Master.bank"
+  SubDir: 
+  lastModified: 637161939977639697
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2149099566516620130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &2210016056500238184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/soundingforkEvent/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &2218080989177472822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/hpDead
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/hpDead
+  guid: 8a5818f44c227841accb78b4cb2cb9fa
+  Banks:
+  - {fileID: -4806405585067912987}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 892
+--- !u!114 &2242833584121781873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/soundingforkEvent/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &2432038345934254563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/soundingforkEvent/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &2626483811396557787
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/soundingforkEvent/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 1
+--- !u!114 &2711352320030949105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &2937547186941192736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan2Event/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &3175659423072575021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &3214755091712080387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan2Event/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &3310277340853245873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: hitpoints
+  m_EditorClassIdentifier: 
+  Name: hitpoints
+  Min: 0
+  Max: 100
+  Default: 100
+  Exists: 0
+--- !u!114 &3335096422351441439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan2Event/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &3362607355787473024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 1
+--- !u!114 &3577851373457513654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan3Event/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &3600379685130963002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/gameBGM/organsRepaired
+  m_EditorClassIdentifier: 
+  Name: organsRepaired
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &3671688744262298708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan1Event/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &3758203618100316410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: "../../\u97F3\u697D/ISD/Game Jams/2020/January GGJ/organrepairmanbackup/Build/Desktop/Master.bank"
+  SubDir: 
+  lastModified: 637161885515744504
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &3760690558127757566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan4Event/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &3773043391617760485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/hpDamageEvent
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/hpDamageEvent
+  guid: 6af65525c986ca4d81678babec014cd1
+  Banks:
+  - {fileID: -4806405585067912987}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1000
+--- !u!114 &4042878032691903783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &4090143207649853319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/hoverSelectEvent
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/hoverSelectEvent
+  guid: f6872afe1870e04eb13b0645f96851a2
+  Banks:
+  - {fileID: -4806405585067912987}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 136
+--- !u!114 &4180743034563744788
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/gameBGM/organsRepaired
+  m_EditorClassIdentifier: 
+  Name: organsRepaired
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &4302587958078246533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &4377932797016563472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan2Event/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &4420289744990086281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan2Event/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &4599125448128001060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/soundingforkEvent/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &4647116523920057307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: hitpoints
+  m_EditorClassIdentifier: 
+  Name: hitpoints
+  Min: 0
+  Max: 100
+  Default: 100
+  Exists: 0
+--- !u!114 &4735355277077475567
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan4Event/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &4789601278019290563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &4867289187177520587
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan2Event/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &4913973230068055572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: "../../\u97F3\u697D/ISD/Game Jams/2020/January GGJ/organrepairmanbackup/Build/Desktop/Master.strings.bank"
+  SubDir: 
+  lastModified: 637161944389125393
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1620
+  Exists: 0
+--- !u!114 &4998368933174054507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/hpDamageEvent
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/hpDamageEvent
+  guid: 8a5818f44c227841accb78b4cb2cb9fa
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 892
+--- !u!114 &5140997943831945043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 1
+--- !u!114 &5177368536249437368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &5306538090340740946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan1Event/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &5348986115491101203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &5351580890830030317
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/gameBGM/organsRepaired
+  m_EditorClassIdentifier: 
+  Name: organsRepaired
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &5356908181550772177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &5402145169016205178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan3Event/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 1
+--- !u!114 &5414539145003678508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: hitpoints
+  m_EditorClassIdentifier: 
+  Name: hitpoints
+  Min: 0
+  Max: 100
+  Default: 100
+  Exists: 0
+--- !u!114 &5547762778860350319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &5575727160570257435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &5679059868180801234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan4Event/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &5733684889963087664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &5777206708655545542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 1
+--- !u!114 &5783877091386793146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/soundingforkEvent/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &5859153580070997091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: "../../\u97F3\u697D/ISD/Game Jams/2020/January GGJ/organrepairmanbackup/Build/Desktop/Master.bank"
+  SubDir: 
+  lastModified: 637161868351239971
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &5887318526665458570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &5896725738330764706
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &5999117607405479189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan1Event/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &6068840565182923720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &6087601808542005851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: "../../\u97F3\u697D/ISD/Game Jams/2020/January GGJ/organrepairmanbackup/Build/Desktop/Master.bank"
+  SubDir: 
+  lastModified: 637161885792968172
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &6210264612598412887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 1
+--- !u!114 &6240987296573896061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan4Event/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &6347127802823042894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan4Event/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &6406147756753632486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &6488945151132385210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/gameBGM/organsRepaired
+  m_EditorClassIdentifier: 
+  Name: organsRepaired
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &6500795047886653554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: "../../\u97F3\u697D/ISD/Game Jams/2020/January GGJ/organrepairmanbackup/Build/Desktop/Master.bank"
+  SubDir: 
+  lastModified: 637161931824581673
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &6511436953125750293
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan2Event/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &6553485727911818752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &6655213454413893000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/soundingforkEvent/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &6680749089571356884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/gameBGM/organsRepaired
+  m_EditorClassIdentifier: 
+  Name: organsRepaired
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &6786643424307369478
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &6818397933219670618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan1Event/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 1
+--- !u!114 &6820927383510113910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan2Event/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &6884254521387707203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &7163900025580087738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan1Event/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &7179952091467217629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch3
+  m_EditorClassIdentifier: 
+  Name: pitch3
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &7346923898165897640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: "../../\u97F3\u697D/ISD/Game Jams/2020/January GGJ/organrepairmanbackup/Build/Desktop/Master.bank"
+  SubDir: 
+  lastModified: 637161932404966895
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &7375421831259110305
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &7777612575996294374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &7894235005061302704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan1Event/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &7967734601848109193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/winChord
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/winChord
+  guid: fb8222024ca31348be9a6a418b9a0423
+  Banks:
+  - {fileID: -4806405585067912987}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 6210264612598412887}
+  - {fileID: 5140997943831945043}
+  - {fileID: -6333817596747941460}
+  - {fileID: 8745847186949147552}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2200
+--- !u!114 &7983561799195937891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch2
+  m_EditorClassIdentifier: 
+  Name: pitch2
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &8181651573145104848
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &8315949339056125553
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &8453456133606120915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &8523498813952214654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/tf_hitOrgan1Event/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 0
+--- !u!114 &8547188538615485865
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/gameBGM/organsRepaired
+  m_EditorClassIdentifier: 
+  Name: organsRepaired
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &8549206228379271418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/soundingforkEvent
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/soundingforkEvent
+  guid: 9bf98ce8789a194faaeb32f875c103e8
+  Banks:
+  - {fileID: -4806405585067912987}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 2626483811396557787}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3550
+--- !u!114 &8561488333724927315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/D Major/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &8595433703062008154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: "../../\u97F3\u697D/ISD/Game Jams/2020/January GGJ/organrepairmanbackup/Build/Desktop/Master.bank"
+  SubDir: 
+  lastModified: 637161943989115452
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &8615147980768849390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: hitpoints
+  m_EditorClassIdentifier: 
+  Name: hitpoints
+  Min: 0
+  Max: 100
+  Default: 100
+  Exists: 0
+--- !u!114 &8631417528988357365
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0
+--- !u!114 &8745847186949147552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch1
+  m_EditorClassIdentifier: 
+  Name: pitch1
+  Min: 146.8
+  Max: 587.4
+  Default: 293.7
+  Exists: 1
+--- !u!114 &9072639354437167778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: hitpoints
+  m_EditorClassIdentifier: 
+  Name: hitpoints
+  Min: 0
+  Max: 100
+  Default: 100
+  Exists: 0
+--- !u!114 &9082343727910566154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/winChord/pitch4
+  m_EditorClassIdentifier: 
+  Name: pitch4
+  Min: 147.8
+  Max: 589.6
+  Default: 293.7
+  Exists: 0

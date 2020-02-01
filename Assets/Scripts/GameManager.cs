@@ -40,7 +40,11 @@ public class GameManager : MonoBehaviour
             {
                 won = true;
             }
-        }        
+        }
+
+        if (won == true) {
+            FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/winChord");
+        }
     }
 
     bool CheckTuning()
